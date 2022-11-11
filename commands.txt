@@ -1,0 +1,3 @@
+//to run backend server - npm run dev
+
+//to run json-sever - json-server --watch db.json
